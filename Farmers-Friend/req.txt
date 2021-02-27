@@ -20,7 +20,7 @@ pytz==2020.1
 requests==2.24.0
 schedule==0.6.0
 scikit-learn==0.23.1
-scipy
+scipy==1.5.2
 six==1.15.0
 sklearn==0.0
 sqlparse==0.3.1
@@ -28,3 +28,4 @@ threadpoolctl==2.1.0
 tzlocal==2.1
 urllib3==1.25.10
 utils==1.0.1
+gunicorn

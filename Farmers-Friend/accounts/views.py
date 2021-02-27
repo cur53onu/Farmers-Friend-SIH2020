@@ -47,7 +47,7 @@ def printit():
             print('\n'+city,' user '+str(i['user'])+' overcast condition',end='\n')
 
 
-printit()
+# printit()
 def index(request):
     return render(request, 'accounts/basic.html')
 
